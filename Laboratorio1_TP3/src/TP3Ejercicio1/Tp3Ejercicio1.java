@@ -1,14 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 package TP3Ejercicio1;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Usuario
+/** * @author GRUPO6 
+ * Luis Ezequiel Sosa, Lucas Saidman, Gimenez Diego Ruben, Carlos German Mecias Giacomelli, Tomas Migliozzi badani, Luca Rodrigaño
  */
 public class Tp3Ejercicio1 extends javax.swing.JFrame {
 
